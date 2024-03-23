@@ -1,6 +1,6 @@
 import java.util.List;
 public class FirstClass {
-    public static void main(String... args) {
+    public static void main(String[] args) {
 
 //0) прочитать про диапазоны типов данных для вещественных / чисел с плавающей точкой
 
